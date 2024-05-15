@@ -2,11 +2,15 @@
 
 # File Organizer
 
-This project is a file organizer application designed to sort files based on user-defined configurations.
+This project is a Windows only file organizer application designed to sort files based on user-defined configurations.
 
 ## Overview
 
 The File Organizer allows users to define sorting configurations using a simple text-based format. Each configuration, known as a "Sorter", specifies criteria such as tags, target directories, source directories, file names, and extensions.
+
+**File Sorter Folder Location:**
+
+The File Sorter application creates a folder named "Sorters" in the user's home (`C:\Users\Username\Sorters`). This folder serves as the default location for storing sorter configuration files.
 
 ## Sorter Configuration Example
 
