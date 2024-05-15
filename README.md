@@ -12,7 +12,7 @@ The File Organizer allows users to define sorting configurations using a simple 
 
 The File Sorter application creates a folder named "Sorters" in the user's home (`C:\Users\Username\Sorters`). This folder serves as the default location for storing sorter configuration files.
 
-**Headless mode:**
+**Headless Mode:**
 
 The File Sorter can be run without a GUI. In your terminal, input the argument "headless" to run and sort all active sorters. EX: (Java FileSorter headless).
 
